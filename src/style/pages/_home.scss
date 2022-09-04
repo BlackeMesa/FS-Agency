@@ -50,9 +50,11 @@
 
         @media screen and (max-width: 650px){
           font-size: 2rem;
+          margin-left: 20px
         }
         @media screen and (min-width: 1200px){
           font-size: 5rem;
+          margin-left: 20px
         }
 
         &:before {
@@ -88,6 +90,7 @@
 
         @media screen and (max-width: 650px){
           font-size: 2rem;
+          margin-left: 20px;
         }
         @media screen and (min-width: 1200px){
           font-size: 5rem;
